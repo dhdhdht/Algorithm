@@ -27,6 +27,5 @@ public class Clock {
 		}
 		
 		System.out.print(H + " " + M);
-		
 	}
 }
